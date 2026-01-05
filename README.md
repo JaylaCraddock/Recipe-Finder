@@ -3,6 +3,7 @@
 Mother's Recipes is a responsive recipe finder website that was created using HTML, CSS, and Javascript. As well as utlizing the Youtube and MealDB API.
 
 ## Demo 
+![Anon Mobile Demo](./recipe-finder-images/Screenshot 2026-01-04 231341.png "Mobile Demo")
 
 ## Prerequisites
 
