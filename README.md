@@ -5,6 +5,7 @@ Mother's Recipes is a responsive recipe finder website that was created using HT
 ## Demo 
 
 ## Homepage
+The homepage includes the slideshow of personal meals that I've created that can be recreated from the recipe finder website. As well as includes a popular dishes section that displays the top three dishes from the website that are the most frequently used by our users.
 <img  alt="Homepage" src="./recipe-finder-images/Screenshot 2026-01-04 231341.png" />
 
 
