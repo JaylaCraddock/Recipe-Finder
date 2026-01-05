@@ -3,10 +3,25 @@
 Mother's Recipes is a responsive recipe finder website that was created using HTML, CSS, and Javascript. As well as utlizing the Youtube and MealDB API.
 
 ## Demo 
+
+## Homepage
 <img  alt="Homepage" src="./recipe-finder-images/Screenshot 2026-01-04 231341.png" />
-<img width="336" height="381" alt="" src="./recipe-finder-images/Screenshot 2026-01-04 231531.png" />
-<img width="336" height="381" alt="" src="./recipe-finder-images/Screenshot 2026-01-04 231549.png" />
-<img width="336" height="381" alt="" src="./recipe-finder-images/Screenshot 2026-01-04 231643.png" />
+
+
+## Results Page
+
+The results page when user enters the ingredient name lime, showcasing recipes that uses limes.
+<img  alt="Results page when entering the ingredient lime, showcasing recipes that use limes." src="./recipe-finder-images/Screenshot 2026-01-04 231531.png" />
+
+## Detail Page
+
+The resulting page that a user is taken when clicking on a recipe from the results page. The detail page displays the recipes name, ingredients, instructions, picture and a youtube video if available.
+<img alt="Detail page when user clicks on a recipe from the results page." src="./recipe-finder-images/Screenshot 2026-01-04 231549.png" />
+
+## Meal Page
+
+The meal page that showcases 20 random meals that are rotated on a monthly basis for users that need inspiration on what to cook.
+<img  alt="Meal page that showcases 20 random meals that are rotated on a monthly basis." src="./recipe-finder-images/Screenshot 2026-01-04 231643.png" />
 
 ## Prerequisites
 
