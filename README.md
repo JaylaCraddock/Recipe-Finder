@@ -21,7 +21,7 @@ The resulting page that a user is taken when clicking on a recipe from the resul
 
 ## Detail Page Part 2
 
-On certain recipes it will use the Youtube API to give a visual auditorial option for users.
+On certain recipes it will use the Youtube API to give a visual and auditorial option for users.
 
 <img alt="Detail page when user clicks on a recipe from the results page." src="./recipe-finder-images/Screenshot 2026-01-04 234635.png" />
 
